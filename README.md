@@ -5,4 +5,4 @@
 
 "Цифровые методы в гуманитарных науках" (НИУ ВШЭ, 12 мая 2025)
 
-Ссылка на код: https://colab.research.google.com/drive/11YjcxKv9DsLx3_vNr576iEXt__CuxuRe#scrollTo=EXiEezmRd7q2
+
